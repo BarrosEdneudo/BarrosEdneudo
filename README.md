@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarrosEdneudo
 - 👀 I’m interested in improve to code.
-- 🌱 I’m currently learning JS, CSS, Data Analysis and anything related this. 
+- 🌱 I’m currently learning JS, CSS, Python, Data Analysis and anything related this. 
 
 <!---
 BarrosEdneudo/BarrosEdneudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
